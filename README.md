@@ -44,7 +44,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 🟢 Grupo do Whatsapp [https://chat.whatsapp.com/CZyMr2pmdY7BY4seynmNII](https://chat.whatsapp.com/CZyMr2pmdY7BY4seynmNII)
 
 ☁️ **LINK DE ACESSO PARA NOSSA NUVEM (LEIA TUDO)** [https://mega.nz/folder/SzQUjTSZ#kc8nNME-HUKBITO1ZJJCSQ](https://mega.nz/folder/SzQUjTSZ#kc8nNME-HUKBITO1ZJJCSQ)
-    
+
      ⚠️ **AVISO** ⚠️ Os cursos foram compactados para tentar evitar problemas de direitos autorais e para facilitar o download de forma organizada. Utilize qualquer programa capaz de processar o formato .7z para descompactar os cursos.
 
 	**Sugestões:**
