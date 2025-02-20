@@ -48,11 +48,9 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 ### AVISO
 	Os cursos foram compactados para tentar evitar problemas de direitos autorais e para facilitar o download de forma organizada. Utilize qualquer programa capaz de processar o formato .7z para descompactar os cursos.
 
-     ⚠️ **AVISO** ⚠️ Os cursos foram compactados para tentar evitar problemas de direitos autorais e para facilitar o download de forma organizada. Utilize qualquer programa capaz de processar o formato .7z para descompactar os cursos.
-
 	**Sugestões:**
-    - 7Zip (Windows e Mac) - [https://www.7-zip.org/](https://www.7-zip.org/)
-    - NanaZip (Otimizado para Windows 11) - [https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*)
+		- 7Zip (Windows e Mac) - [https://www.7-zip.org/](https://www.7-zip.org/)
+		- NanaZip (Otimizado para Windows 11) - [https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*)
 
 	**Como proceder:**
 	     - Baixe todos os arquivos (.7z, .7z.002, .7z.003, ...) presentes na pasta do Curso desejado;
