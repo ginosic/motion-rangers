@@ -44,14 +44,14 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 🟢 Grupo do Whatsapp [https://chat.whatsapp.com/CZyMr2pmdY7BY4seynmNII](https://chat.whatsapp.com/CZyMr2pmdY7BY4seynmNII)
 
 ☁️ **LINK DE ACESSO PARA NOSSA NUVEM (LEIA TUDO)** [https://mega.nz/folder/SzQUjTSZ#kc8nNME-HUKBITO1ZJJCSQ](https://mega.nz/folder/SzQUjTSZ#kc8nNME-HUKBITO1ZJJCSQ)
-	
-	### **AVISO**
-		Os cursos foram compactados para tentar evitar problemas de direitos autorais e para facilitar o download de forma organizada. Utilize qualquer programa capaz de processar o formato .7z para descompactar os cursos.
 
-	**Sugestões:**
-		- 7Zip (Windows e Mac) - [https://www.7-zip.org/](https://www.7-zip.org/)
-		- NanaZip (Otimizado para Windows 11) - [https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*)
+## AVISOS
+- Os cursos foram compactados para tentar evitar problemas de direitos autorais e para facilitar o download de forma organizada. Utilize qualquer programa capaz de processar o formato .7z para descompactar os cursos.
 
-	**Como proceder:**
-	     - Baixe todos os arquivos (.7z, .7z.002, .7z.003, ...) presentes na pasta do Curso desejado;
-	     - Selecione somente o primeiro arquivo .7z, clique com o botão direito e extraia para a pasta de sua escolha, ou simplesmente selecione "Extrair Aqui".
+- **Sugestões:**
+	- 7Zip (Windows e Mac) - [https://www.7-zip.org/](https://www.7-zip.org/)
+	- NanaZip (Otimizado para Windows 11) - [https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=pt-BR&gl=BR*)
+
+- **Como proceder:**
+     - Baixe todos os arquivos (.7z, .7z.002, .7z.003, ...) presentes na pasta do Curso desejado;
+     - Selecione somente o primeiro arquivo .7z, clique com o botão direito e extraia para a pasta de sua escolha, ou simplesmente selecione "Extrair Aqui".
